@@ -1,3 +1,3 @@
 # firstproject-demo
 This is my first git repository<br>
-Author - Souvik Sarkar
+Author - Souvik Sarkar(Basic info)
